@@ -1,0 +1,3 @@
+Assesment = potential threats
+testing = checking by penatrate (not ebery vulnurability is exploitable)
+auditing = report of the assesment and testing
