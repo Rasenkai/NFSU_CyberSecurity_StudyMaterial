@@ -1,0 +1,15 @@
+Date : 24/11/2022
+
+(mid turm : 
+unit 1,2,3(how much cover in part)
+numpy
+panda
+met plot lib)
+
+perceptron 
+only for linerly sapratable
+
+multi - layer perceptron
+hidden layer
+activation fuction (sigmoid function)
+
