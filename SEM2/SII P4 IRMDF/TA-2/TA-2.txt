@@ -1,0 +1,17 @@
+Digital evidence acquisition
+
+1. Topic , Student detail , guide/Feculty detail
+2. Inddex - Intro what,how,when,where,data,experiment and result
+		cunclusion, future scope , reference
+3-14. 
+	cloud
+	Aechitecture
+	type
+	Application
+	Design
+	Data migration
+	design
+	Data: (result)
+	Future Scope
+	Cuclusion / Summary
+15. Reference

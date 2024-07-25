@@ -1,0 +1,4 @@
+1. Analysis and monitor system log using event viewer
+
+2. Install and demonstrate system Internet tools(process explorer). Classified data with process ID and company name
+3. With the help of this dislmon  disk monitor identify read and write process having length greater than 5
