@@ -1,0 +1,14 @@
+1.	Explain the IoT Components?
+2.	What is IOT and Explain the  Characteristics of  IoT ?
+3.	Explain the IoT Applications & Domains?
+4.	Explain the difference between IoT and M2M?
+5.	Write a short note on the Limitation of SNMP.
+6.	What are the IoT Enabling Technologies and  Challenges in IoT?
+7.	Explain the UART and SPI?
+8.	Describe the Simple Network Management Protocol (SNMP)?
+9.	Describe IoT Levels and Deployment Techniques.
+10.	Explain the  Logical Design of IoT
+11.	Describe Software Defined Networking (SDN) with a diagram. 
+12.	Explain the Network Function Virtualization (NFV) with a neat diagram.
+13.	Expalin Simple Network Management Protocol (SNMP)?
+14.	Expalin the Physical Design of IoT?

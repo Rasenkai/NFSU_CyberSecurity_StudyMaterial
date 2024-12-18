@@ -1,0 +1,35 @@
+Introduction
+
+- What is IoT forensic?
+
+- Importance of IoT forensic
+
+IoT Forensic Tools
+
+- Tools for data acquisition
+
+- Tools for analyzing IoT data
+
+- Tools for data visualization
+
+IoT Forensic Techniques
+
+- Network forensics for IoT
+
+- Memory forensics for IoT
+
+- Data recovery techniques
+
+Challenges in IoT Forensic
+
+- Complexities in IoT devices
+
+- Lack of standardization
+
+- Privacy and legal concerns
+
+Conclusion
+
+- Importance of IoT forensic in the age of digital technology
+
+- Future trends in IoT forensic

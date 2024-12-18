@@ -1,0 +1,31 @@
+UNIT-I
+Social Networking
+- Fundamentals of Social Networking, Social Networking viral, why social networking is popular, Psychology & Sociology for Online Media, Concepts of Geospatial Information System, How Facebook works?
+
+UNIT-II
+Social Media & Legal Implication
+- Graph Theory and Social Networks, Markets and Strategic Interactions in Networks, Information Networks and the World Wide Web, Network Dynamics: Population and Structural Models, Legal aspects of Privacy in India, Institutions and Aggregate Behavior, social media and its impact on Business, Politics, Law and Revolutions, Legal Responsibilities for Social Networking.
+
+UNIT-III
+Information Gathering from Resources
+- Intelligence gathering, People searching, OSINT, Deep Web, Defamatory content analysis, Multimedia forensics over Social Networking, Emerging Trends in Social Networks
+
+UNIT-IV
+Social Networking exploitation and hacking
+- Introduction: hacking on Twitter data Micro formats: semantic Markup and common sense collide, Twitter: friends, followers, and set wise operations, Twitter: the tweet, LinkedIn: clustering your professional network for fun (and profit?), cosine similarity, and collocations, Facebook: the hacker’s outlook
+
+UNIT-V
+Social Networking Forensics
+- Twitter GPS & Account Data, Hidden Social Network Content, Cell Phone Owner Information, Hidden Photo, GPS & Metadata, Deleted Websites & Posts, Website Owner Information, Alias Social Network Profiles, Additional User Accounts,Sensitive Documents & Photos, Live Streaming Social Content, Videos Uploaded by Location, Newspaper Archives & Scans, Social Content by Location, Text Transcripts of Videos, Historical Satellite Imagery, Duplicate Copies of Photos, Public Government Records, Document Metadata, Voter Registration Records, Facebook Wall Posts
+
+Reference Books
+1. Social Network Analysis: Methods and Applications by Katherine Faust and Stanley Wasserman
+2. Social network analysis by John Scott
+3. Models and Methods in Social Network Analysis by Stanley Wasserman, Peter J. Carrington, John Scott
+4. The SAGE Handbook of Social Network Analysis by John Scott, Peter J. Carrington
+5. Analyzing Social Networks by Jeffrey C. Johnson, Martin G Everett, and Stephen Borgatti
+6. Social Network Analysis: Methods and Examples by Franziska B. Keller, Lu Zheng, and Song Yang
+7. Social Network Analysis by David Knoke and Song Yang
+8. The Development of Social Network Analysis by Linton Freeman
+9. Advances in Social Network Analysis: Research in the Social and Behavioral Sciences by Joseph Galaskiewicz, Stanley Wasserman
+10. Understanding Social Networks: Theories, Concepts, and Findings by Charles Kadushin

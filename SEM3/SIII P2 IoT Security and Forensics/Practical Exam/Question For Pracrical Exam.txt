@@ -1,0 +1,4 @@
+Question For Pracrical Exam!!
+
+Q1 Design a system which blinks light at intervals of 2 sec when temperature reaches to 50 degree using arduino
+Q2 Design a traffic light controller using arduino
